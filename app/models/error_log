@@ -1,0 +1,2 @@
+[12-Jan-2012 23:49:42] PHP Warning:  require_once(Date.php): failed to open stream: No such file or directory in /home/filmmake/public_html/cake/app/models/subscriber.php on line 3
+[12-Jan-2012 23:49:42] PHP Fatal error:  require_once(): Failed opening required 'Date.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/filmmake/public_html/cake/app/models/subscriber.php on line 3

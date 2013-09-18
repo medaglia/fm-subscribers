@@ -1,0 +1,1665 @@
+[27-Sep-2009 02:45:08] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 02:45:08] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysqli.php on line 168
+[27-Sep-2009 02:45:08] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 02:45:08] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysqli.php on line 168
+[27-Sep-2009 02:45:08] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 02:45:08] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysqli.php on line 168
+[27-Sep-2009 02:45:08] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 02:45:08] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysqli.php on line 168
+[27-Sep-2009 02:45:08] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 02:45:08] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysqli.php on line 168
+[27-Sep-2009 02:45:08] PHP Warning:  array_key_exists(): The second argument should be either an array or an object in /home/filmmake/public_html/cake/cake/console/libs/tasks/model.php on line 137
+[27-Sep-2009 02:45:08] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/console/libs/tasks/model.php on line 138
+[27-Sep-2009 02:45:08] PHP Notice:  Undefined variable: name in /home/filmmake/public_html/cake/cake/console/libs/tasks/model.php on line 143
+[27-Sep-2009 11:08:19] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 11:08:19] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysqli.php on line 168
+[27-Sep-2009 11:08:19] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 11:08:19] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysqli.php on line 168
+[27-Sep-2009 11:08:19] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 11:08:19] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysqli.php on line 168
+[27-Sep-2009 11:08:19] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 11:08:19] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysqli.php on line 168
+[27-Sep-2009 11:08:19] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 11:08:19] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysqli.php on line 168
+[27-Sep-2009 11:08:19] PHP Warning:  array_key_exists(): The second argument should be either an array or an object in /home/filmmake/public_html/cake/cake/console/libs/tasks/model.php on line 137
+[27-Sep-2009 11:08:19] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/console/libs/tasks/model.php on line 138
+[27-Sep-2009 11:08:19] PHP Notice:  Undefined variable: name in /home/filmmake/public_html/cake/cake/console/libs/tasks/model.php on line 143
+[27-Sep-2009 11:10:30] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 11:10:30] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysqli.php on line 168
+[27-Sep-2009 11:52:28] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 11:52:28] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysql.php on line 185
+[27-Sep-2009 12:07:23] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysql.php on line 451
+[27-Sep-2009 12:07:23] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysql.php on line 451
+[27-Sep-2009 12:07:23] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysql.php on line 451
+[27-Sep-2009 12:07:23] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysql.php on line 451
+[27-Sep-2009 12:07:23] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysql.php on line 451
+[27-Sep-2009 12:07:23] PHP Warning:  array_keys(): The first argument should be an array in /home/filmmake/public_html/cake/cake/console/libs/tasks/view.php on line 263
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/console/libs/templates/views/index.ctp on line 36
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/console/libs/templates/views/index.ctp on line 51
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/console/libs/templates/views/view.ctp on line 29
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/console/libs/templates/views/form.ctp on line 31
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/console/libs/templates/views/form.ctp on line 31
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/console/libs/templates/views/index.ctp on line 36
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/console/libs/templates/views/index.ctp on line 51
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/console/libs/templates/views/view.ctp on line 29
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/console/libs/templates/views/form.ctp on line 31
+[27-Sep-2009 12:07:23] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/console/libs/templates/views/form.ctp on line 31
+[11-Dec-2009 02:01:10] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[11-Dec-2009 02:01:10] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[12-Dec-2009 04:15:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[12-Dec-2009 04:15:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[12-Dec-2009 08:15:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[12-Dec-2009 08:15:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[12-Dec-2009 12:15:06] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[12-Dec-2009 12:15:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[12-Dec-2009 16:15:06] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[12-Dec-2009 16:15:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[12-Dec-2009 20:15:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[12-Dec-2009 20:15:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[13-Dec-2009 00:15:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[13-Dec-2009 00:15:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[13-Dec-2009 04:15:06] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[13-Dec-2009 04:15:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[13-Dec-2009 08:15:08] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[13-Dec-2009 08:15:08] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[13-Dec-2009 12:15:06] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[13-Dec-2009 12:15:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[13-Dec-2009 16:15:07] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[13-Dec-2009 16:15:07] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[13-Dec-2009 20:15:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[13-Dec-2009 20:15:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[14-Dec-2009 00:15:06] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[14-Dec-2009 00:15:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[14-Dec-2009 04:15:06] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[14-Dec-2009 04:15:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[14-Dec-2009 08:15:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[14-Dec-2009 08:15:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[15-Dec-2009 12:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[15-Dec-2009 12:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[15-Dec-2009 16:10:02] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[15-Dec-2009 16:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[15-Dec-2009 20:10:06] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[15-Dec-2009 20:10:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[16-Dec-2009 00:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[16-Dec-2009 00:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[16-Dec-2009 04:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[16-Dec-2009 04:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[16-Dec-2009 08:10:02] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[16-Dec-2009 08:10:02] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[16-Dec-2009 12:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[16-Dec-2009 12:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[16-Dec-2009 16:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[16-Dec-2009 16:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[16-Dec-2009 20:10:02] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[16-Dec-2009 20:10:02] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[17-Dec-2009 00:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[17-Dec-2009 00:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[17-Dec-2009 04:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[17-Dec-2009 04:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[17-Dec-2009 08:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[17-Dec-2009 08:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[17-Dec-2009 12:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[17-Dec-2009 12:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[17-Dec-2009 14:45:02] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[17-Dec-2009 14:45:02] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:30
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(30): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 30
+[17-Dec-2009 14:48:49] PHP Fatal error:  Uncaught SoapFault exception: [2] Access denied. in /home/filmmake/public_html/cake/vendors/shells/mimport.php:36
+Stack trace:
+#0 [internal function]: SoapClient->__call('login', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(36): SoapClient->login('WebServicesUser', 'mgntfmmag5b7a04...')
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 36
+[19-Dec-2009 00:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[19-Dec-2009 00:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[19-Dec-2009 04:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[19-Dec-2009 04:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[19-Dec-2009 08:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[19-Dec-2009 08:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[19-Dec-2009 12:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[19-Dec-2009 12:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[19-Dec-2009 14:00:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[19-Dec-2009 14:00:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://filmmake...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[19-Dec-2009 14:04:36] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[19-Dec-2009 14:04:36] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/app/models/subscriber.php on line 128
+[19-Dec-2009 14:04:36] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[19-Dec-2009 14:05:02] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[19-Dec-2009 14:05:02] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/app/models/subscriber.php on line 128
+[19-Dec-2009 14:05:02] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[19-Dec-2009 14:05:05] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[19-Dec-2009 14:05:05] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/app/models/subscriber.php on line 128
+[19-Dec-2009 14:05:05] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 2006: MySQL server has gone away</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[19-Dec-2009 14:16:02] PHP Notice:  Undefined index:  country in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 116
+[19-Dec-2009 14:16:03] PHP Notice:  Undefined index:  country in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 116
+[19-Dec-2009 14:16:03] PHP Notice:  Undefined index:  country in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 116
+[20-Dec-2009 16:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[20-Dec-2009 16:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[20-Dec-2009 19:04:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[20-Dec-2009 19:04:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[22-Dec-2009 00:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[22-Dec-2009 00:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[22-Dec-2009 06:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[22-Dec-2009 06:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[22-Dec-2009 12:10:02] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1030: Got error 28 from storage engine</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[22-Dec-2009 12:10:02] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysql.php on line 451
+[22-Dec-2009 12:10:02] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1030: Got error 28 from storage engine</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[22-Dec-2009 12:10:02] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysql.php on line 451
+[22-Dec-2009 12:10:02] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1030: Got error 28 from storage engine</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[22-Dec-2009 12:10:02] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysql.php on line 451
+[22-Dec-2009 12:10:02] PHP Warning:  <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1030: Got error 28 from storage engine</span> in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo_source.php on line 524
+[22-Dec-2009 12:10:02] PHP Warning:  Invalid argument supplied for foreach() in /home/filmmake/public_html/cake/cake/libs/model/datasources/dbo/dbo_mysql.php on line 451
+[23-Dec-2009 12:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[23-Dec-2009 12:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[23-Dec-2009 18:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[23-Dec-2009 18:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[24-Dec-2009 00:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[24-Dec-2009 00:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[24-Dec-2009 06:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[24-Dec-2009 06:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[24-Dec-2009 12:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[24-Dec-2009 12:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[24-Dec-2009 18:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[24-Dec-2009 18:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[25-Dec-2009 00:10:02] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[25-Dec-2009 00:10:02] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[25-Dec-2009 06:10:02] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[25-Dec-2009 06:10:02] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[25-Dec-2009 12:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[25-Dec-2009 12:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[25-Dec-2009 18:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[25-Dec-2009 18:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[26-Dec-2009 00:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[26-Dec-2009 00:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[26-Dec-2009 06:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[26-Dec-2009 06:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[26-Dec-2009 12:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[26-Dec-2009 12:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[26-Dec-2009 18:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[26-Dec-2009 18:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[27-Dec-2009 00:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[27-Dec-2009 00:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[27-Dec-2009 06:10:06] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[27-Dec-2009 06:10:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[28-Dec-2009 12:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[28-Dec-2009 12:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[28-Dec-2009 18:10:02] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[28-Dec-2009 18:10:02] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[29-Dec-2009 00:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[29-Dec-2009 00:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[29-Dec-2009 06:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[29-Dec-2009 06:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[29-Dec-2009 12:11:04] PHP Warning:  SoapClient::SoapClient(http://schemas.xmlsoap.org/soap/encoding/): failed to open stream: Connection timed out in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[29-Dec-2009 12:11:04] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity "http://schemas.xmlsoap.org/soap/encoding/" in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[29-Dec-2009 12:11:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[29-Dec-2009 12:11:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[29-Dec-2009 18:10:06] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[29-Dec-2009 18:10:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[30-Dec-2009 00:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[30-Dec-2009 00:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[30-Dec-2009 06:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[30-Dec-2009 06:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[30-Dec-2009 12:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[30-Dec-2009 12:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[30-Dec-2009 18:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[30-Dec-2009 18:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[31-Dec-2009 00:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[31-Dec-2009 00:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[31-Dec-2009 06:10:07] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[31-Dec-2009 06:10:07] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[31-Dec-2009 12:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[31-Dec-2009 12:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[31-Dec-2009 18:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[31-Dec-2009 18:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[01-Jan-2010 00:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[01-Jan-2010 00:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[01-Jan-2010 06:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[01-Jan-2010 06:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[01-Jan-2010 12:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[01-Jan-2010 12:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[01-Jan-2010 18:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[01-Jan-2010 18:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[02-Jan-2010 00:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[02-Jan-2010 00:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[02-Jan-2010 06:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[02-Jan-2010 06:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[02-Jan-2010 12:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[02-Jan-2010 12:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[02-Jan-2010 18:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[02-Jan-2010 18:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[03-Jan-2010 00:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[03-Jan-2010 00:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[03-Jan-2010 06:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[03-Jan-2010 06:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[03-Jan-2010 12:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[03-Jan-2010 12:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[03-Jan-2010 18:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[03-Jan-2010 18:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[04-Jan-2010 00:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[04-Jan-2010 00:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[04-Jan-2010 06:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[04-Jan-2010 06:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('http://www.film...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[05-Jan-2010 12:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[05-Jan-2010 12:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[05-Jan-2010 18:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[05-Jan-2010 18:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[06-Jan-2010 00:10:02] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[06-Jan-2010 00:10:02] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[06-Jan-2010 06:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[06-Jan-2010 06:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[06-Jan-2010 12:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[06-Jan-2010 12:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[06-Jan-2010 18:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[06-Jan-2010 18:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[07-Jan-2010 00:10:02] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[07-Jan-2010 00:10:02] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[07-Jan-2010 06:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[07-Jan-2010 06:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[07-Jan-2010 12:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[07-Jan-2010 12:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[07-Jan-2010 18:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[07-Jan-2010 18:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[08-Jan-2010 00:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[08-Jan-2010 00:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[08-Jan-2010 06:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[08-Jan-2010 06:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[08-Jan-2010 12:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[08-Jan-2010 12:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[08-Jan-2010 18:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[08-Jan-2010 18:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[09-Jan-2010 00:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[09-Jan-2010 00:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[09-Jan-2010 06:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[09-Jan-2010 06:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[09-Jan-2010 12:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[09-Jan-2010 12:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[09-Jan-2010 18:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[09-Jan-2010 18:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[10-Jan-2010 00:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[10-Jan-2010 00:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[10-Jan-2010 06:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[10-Jan-2010 06:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[10-Jan-2010 12:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[10-Jan-2010 12:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[10-Jan-2010 18:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[10-Jan-2010 18:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[11-Jan-2010 00:10:02] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[11-Jan-2010 00:10:02] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[11-Jan-2010 06:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[11-Jan-2010 06:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[11-Jan-2010 12:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[11-Jan-2010 12:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[11-Jan-2010 18:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[11-Jan-2010 18:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[12-Jan-2010 00:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[12-Jan-2010 00:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[13-Jan-2010 06:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[13-Jan-2010 06:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[13-Jan-2010 12:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[13-Jan-2010 12:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[14-Jan-2010 12:12:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:73
+Stack trace:
+#0 [internal function]: SoapClient->__call('call', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(73): SoapClient->call('b7c57ca39fc2aec...', 'sales_order.inf...', '100000146')
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 73
+[14-Jan-2010 20:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[14-Jan-2010 20:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[15-Jan-2010 20:12:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:66
+Stack trace:
+#0 [internal function]: SoapClient->__call('call', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(66): SoapClient->call('e9d877ea0ff6d09...', 'sales_order_inv...', Array)
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 66
+[16-Jan-2010 08:10:06] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[16-Jan-2010 08:10:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[18-Jan-2010 08:12:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[18-Jan-2010 08:12:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[18-Jan-2010 20:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[18-Jan-2010 20:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[19-Jan-2010 20:12:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:73
+Stack trace:
+#0 [internal function]: SoapClient->__call('call', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(73): SoapClient->call('aa4f450c70fd3db...', 'sales_order.inf...', '100000159')
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 73
+[20-Jan-2010 08:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[20-Jan-2010 08:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[21-Jan-2010 08:12:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[21-Jan-2010 08:12:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[21-Jan-2010 20:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[21-Jan-2010 20:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[22-Jan-2010 20:12:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:66
+Stack trace:
+#0 [internal function]: SoapClient->__call('call', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(66): SoapClient->call('c2328f6f56cf98c...', 'sales_order_inv...', Array)
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 66
+[23-Jan-2010 08:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[23-Jan-2010 08:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[24-Jan-2010 08:12:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[24-Jan-2010 08:12:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[24-Jan-2010 20:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[24-Jan-2010 20:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[25-Jan-2010 20:12:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:44
+Stack trace:
+#0 [internal function]: SoapClient->__call('login', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(44): SoapClient->login('WebServicesUser', 'mgntfmmag5b7a04...')
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 44
+[26-Jan-2010 08:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[26-Jan-2010 08:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[28-Jan-2010 08:12:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[28-Jan-2010 08:12:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[28-Jan-2010 20:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[28-Jan-2010 20:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[29-Jan-2010 20:12:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[29-Jan-2010 20:12:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[30-Jan-2010 08:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[30-Jan-2010 08:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[31-Jan-2010 08:12:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:44
+Stack trace:
+#0 [internal function]: SoapClient->__call('login', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(44): SoapClient->login('WebServicesUser', 'mgntfmmag5b7a04...')
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 44
+[31-Jan-2010 20:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[31-Jan-2010 20:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[01-Feb-2010 20:12:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:44
+Stack trace:
+#0 [internal function]: SoapClient->__call('login', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(44): SoapClient->login('WebServicesUser', 'mgntfmmag5b7a04...')
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 44
+[02-Feb-2010 08:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[02-Feb-2010 08:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[03-Feb-2010 08:12:02] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[03-Feb-2010 08:12:02] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[03-Feb-2010 19:10:06] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[03-Feb-2010 19:10:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[04-Feb-2010 19:12:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[04-Feb-2010 19:12:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[05-Feb-2010 08:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[05-Feb-2010 08:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[06-Feb-2010 08:12:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:44
+Stack trace:
+#0 [internal function]: SoapClient->__call('login', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(44): SoapClient->login('WebServicesUser', 'mgntfmmag5b7a04...')
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 44
+[06-Feb-2010 19:10:03] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[06-Feb-2010 19:10:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[08-Feb-2010 19:12:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[08-Feb-2010 19:12:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[09-Feb-2010 08:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[09-Feb-2010 08:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[10-Feb-2010 08:12:03] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:66
+Stack trace:
+#0 [internal function]: SoapClient->__call('call', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(66): SoapClient->call('00783b00d0ba416...', 'sales_order_inv...', Array)
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 66
+[10-Feb-2010 19:10:05] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[10-Feb-2010 19:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[11-Feb-2010 19:12:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:66
+Stack trace:
+#0 [internal function]: SoapClient->__call('call', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(66): SoapClient->call('98112be9784e892...', 'sales_order_inv...', Array)
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 66
+[12-Feb-2010 08:10:06] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[12-Feb-2010 08:10:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[13-Feb-2010 08:12:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:44
+Stack trace:
+#0 [internal function]: SoapClient->__call('login', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(44): SoapClient->login('WebServicesUser', 'mgntfmmag5b7a04...')
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 44
+[13-Feb-2010 19:10:04] PHP Fatal error:  SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[13-Feb-2010 19:10:04] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:38
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(38): SoapClient->SoapClient('https://cordoba...')
+#1 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#4 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 38
+[14-Feb-2010 19:12:06] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:158
+Stack trace:
+#0 [internal function]: SoapClient->__call('endSession', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(158): SoapClient->endSession('1715b5beb4d7181...')
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 158
+[18-Feb-2010 19:10:02] PHP Warning:  file_get_contents(/tmp/mgnt-order-lock.txt): failed to open stream: No such file or directory in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 12
+[07-Oct-2010 01:10:08] PHP Notice:  Undefined index:  customer_email in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 115
+[20-Jan-2011 01:10:05] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing Schema: can't import schema from 'http://schemas.xmlsoap.org/soap/encoding/' in /home/filmmake/public_html/cake/vendors/shells/mimport.php:77
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(77): SoapClient->__call('call', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(77): SoapClient->call('48b669cf42bcbc6...', 'sales_order.inf...', '100001296')
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 77
+[25-Jan-2011 01:10:09] PHP Warning:  SoapClient::SoapClient(http://schemas.xmlsoap.org/soap/encoding/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 42
+[25-Jan-2011 01:10:09] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity "http://schemas.xmlsoap.org/soap/encoding/" in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 42
+[03-Sep-2012 01:10:12] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:81
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->__call('call', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->call('59e757a2112c319...', 'sales_order.inf...', '100003188')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 81
+[20-Sep-2012 01:11:06] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:81
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->__call('call', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->call('152dc30a9b0eb13...', 'sales_order.inf...', '100003230')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 81
+[08-Oct-2012 01:11:19] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:189
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->__call('endSession', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->endSession('742f47c4d861d08...')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 189
+[15-Oct-2012 01:10:46] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:81
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->__call('call', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->call('cab532b85aeae8c...', 'sales_order.inf...', '100003283')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 81
+[16-Oct-2012 01:10:33] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Authorization Required in /home/filmmake/public_html/cake/vendors/shells/mimport.php:51
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(51): SoapClient->__call('login', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(51): SoapClient->login('WebServicesUser', 'mgntfmmag5b7a04...')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 51
+[17-Oct-2012 01:11:04] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:81
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->__call('call', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->call('e033ff25d8d5777...', 'sales_order.inf...', '100003283')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 81
+[20-Oct-2012 01:11:20] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:81
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->__call('call', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->call('195159de2906533...', 'sales_order.inf...', '100003291')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 81
+[25-Oct-2012 01:10:14] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:81
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->__call('call', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->call('775c6df87c0c36a...', 'sales_order.inf...', '100003298')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 81
+[28-Oct-2012 01:11:30] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:81
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->__call('call', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->call('13969945f803906...', 'sales_order.inf...', '100003305')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 81
+[31-Oct-2012 01:11:20] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:189
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->__call('endSession', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->endSession('baccc63d1420824...')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 189
+[03-Nov-2012 01:10:09] PHP Warning:  SoapClient::SoapClient(): SSL: connection timeout in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 45
+[03-Nov-2012 01:10:09] PHP Warning:  SoapClient::SoapClient(): Failed to enable crypto in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 45
+[03-Nov-2012 01:10:09] PHP Warning:  SoapClient::SoapClient(https://filmmakermagazine.accountservergroup.com/~filmmake/buy/index.php/api/?wsdl): failed to open stream: operation failed in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 45
+[03-Nov-2012 01:10:09] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity "https://filmmakermagazine.accountservergroup.com/~filmmake/buy/index.php/api/?wsdl" in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 45
+[04-Nov-2012 01:11:34] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:81
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->__call('call', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->call('8aa7be76e0083b8...', 'sales_order.inf...', '100003312')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 81
+[05-Nov-2012 01:11:30] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:81
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->__call('call', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->call('bcd757b0e50c70d...', 'sales_order.inf...', '100003312')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 81
+[07-Nov-2012 01:11:27] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:81
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->__call('call', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->call('6396f92f1a9a91f...', 'sales_order.inf...', '100003318')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 81
+[08-Nov-2012 01:11:01] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:189
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->__call('endSession', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->endSession('c81748cae5b77ec...')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 189
+[12-Nov-2012 01:11:31] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:189
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->__call('endSession', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->endSession('52198eb2f5e9ccf...')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 189
+[19-Nov-2012 01:10:47] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:189
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->__call('endSession', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->endSession('ec13653c53b97d1...')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 189
+[20-Nov-2012 01:10:04] PHP Fatal error:  Uncaught SoapFault exception: [Client] looks like we got no XML document in /home/filmmake/public_html/cake/vendors/shells/mimport.php:51
+Stack trace:
+#0 /home/filmmake/public_html/cake/vendors/shells/mimport.php(51): SoapClient->__call('login', Array)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(51): SoapClient->login('WebServicesUser', 'mgntfmmag5b7a04...')
+#2 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#5 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 51
+[21-Nov-2012 01:11:08] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:189
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->__call('endSession', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->endSession('4aa4ac8cbaab119...')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 189
+[23-Nov-2012 01:10:44] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:189
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->__call('endSession', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->endSession('55ee2eeae3ed448...')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 189
+[25-Nov-2012 01:10:41] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:189
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->__call('endSession', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(189): SoapClient->endSession('95c66c763e1355d...')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 189
+[29-Nov-2012 01:10:04] PHP Warning:  SoapClient::SoapClient(https://filmmakermagazine.accountservergroup.com/~filmmake/buy/index.php/api/?wsdl): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 45
+[29-Nov-2012 01:10:04] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity "https://filmmakermagazine.accountservergroup.com/~filmmake/buy/index.php/api/?wsdl" in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 45
+[30-Nov-2012 01:10:17] PHP Warning:  SoapClient::SoapClient(https://filmmakermagazine.accountservergroup.com/~filmmake/buy/index.php/api/?wsdl): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 45
+[30-Nov-2012 01:10:17] PHP Warning:  SoapClient::SoapClient(): I/O warning : failed to load external entity "https://filmmakermagazine.accountservergroup.com/~filmmake/buy/index.php/api/?wsdl" in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 45
+[03-Dec-2012 01:10:59] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/filmmake/public_html/cake/vendors/shells/mimport.php:81
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'https://filmmak...', 'urn:Mage_Api_Mo...', 1, 0)
+#1 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->__call('call', Array)
+#2 /home/filmmake/public_html/cake/vendors/shells/mimport.php(81): SoapClient->call('8c96c6bed318e61...', 'sales_order.inf...', '100003361')
+#3 /home/filmmake/public_html/cake/cake/console/cake.php(366): MimportShell->main()
+#4 /home/filmmake/public_html/cake/cake/console/cake.php(131): ShellDispatcher->dispatch()
+#5 /home/filmmake/public_html/cake/cake/console/cake.php(587): ShellDispatcher->__construct(Array)
+#6 {main}
+  thrown in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 81

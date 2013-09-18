@@ -1,0 +1,3810 @@
+[H[2J
+Welcome to CakePHP v1.2.4.8284 Console
+---------------------------------------------------------------
+App : app
+Path: /home/filmmake/public_html/cake/app
+---------------------------------------------------------------
+Initializing...
+Last Updated: 2011-11-12 01:57:40
+
+Soap Initialized.
+-------------------------------------------
+Updated at: 2011-11-12 23:12:42
+Invoice Id: 100001521
+First Name: Titus
+Last Name: Richard
+Address:
+43186 Corte Argento
+Temecula , California 92592
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-12: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-13 00:33:10
+Invoice Id: 100001522
+First Name: Lily
+Last Name: Kleinman
+Address:
+Hampshire College
+PO Box 0593
+Amherst, Massachusetts 01022
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-13: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-13 15:09:12
+Invoice Id: 100001523
+First Name: Sherina
+Last Name: Williams
+Address:
+54 Jackman Drive
+Apt B
+Poughkeepsie, New York 12603
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-13: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-13 19:06:39
+Invoice Id: 100001524
+First Name: Takeshi
+Last Name: Fukunaga
+Address:
+163 Ocean Ave
+#4A
+Brooklyn, New York 11225
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-13: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-14 04:21:46
+Invoice Id: 100001525
+First Name: Sarah
+Last Name: Jenkins
+Address:
+679 Degraw Street #2
+Brooklyn, New York 11217
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-14: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-14 21:50:49
+Invoice Id: 100001526
+First Name: Gabriel 
+Last Name: Palomino
+Address:
+7661 Greenock Way
+Riverside, California 92508
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-14: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-15 15:12:58
+Invoice Id: 100001527
+First Name: Kevin
+Last Name: Conniff
+Address:
+4728 Debolt Ave
+Downers Grove, Illinois 60515
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-15: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-15 19:15:31
+Invoice Id: 100001528
+First Name: Garry
+Last Name: Bowden
+Address:
+626 Hyde St.
+San Francsico, California 94109
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-15: 78 - 85
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 18898
+    [firstname] => Garry
+    [lastname] => Bowden
+    [company] => 
+    [email] => garrybowden@gmail.com
+    [phone] => 6786127361
+    [address] => 626 Hyde St.
+    [city] => San Francisco
+    [state] => CA
+    [country] => US
+    [postcode] => 94109
+    [source] => DIRECT SUBSCRIBER
+    [issue_start] => 69
+    [issue_end] => 76
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2009-12-18 19:33:47
+    [modified] => 2011-01-18 09:30:17
+    [last_issue_date] => 7/15/2011
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-16 02:24:29
+Invoice Id: 100001529
+First Name: Amy
+Last Name: Andersen
+Address:
+609 Ashbury Street 
+Apt 2
+San Francisco, California 94117
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-16: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-16 05:03:43
+Invoice Id: 100001530
+First Name: Eric
+Last Name: Vent
+Address:
+35 Picardy Lane
+Ladue, Missouri 63124
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-16: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-16 15:14:13
+Invoice Id: 100001531
+First Name: MARK 
+Last Name: STEFANIK
+Address:
+57 MONTAGUE STREET, APT 8J
+BROOKLYN , New York 11201
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-16: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-16 22:43:28
+Invoice Id: 100001532
+First Name: Daphne
+Last Name: Lambrinou
+Address:
+1223 Federal Ave #206
+Los Angeles, California 90025
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-16: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-17 01:45:36
+Invoice Id: 100001533
+First Name: Sarah
+Last Name: Dallas
+Address:
+295 East 8th Street, Apt 1W
+New York, New York 10009
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-17: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-17 03:39:08
+Invoice Id: 100001534
+First Name: Brad
+Last Name: Tiemann
+Address:
+5510 W 149th Place #10
+Hawthorne, California 90250
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-17: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-17 15:54:50
+Invoice Id: 100001535
+First Name: Greg
+Last Name: Wood
+Address:
+P.O. Box 12763
+El Cajon, California 92022
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-17: 78 - 81
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 19175
+    [firstname] => Greg
+    [lastname] => Wood
+    [company] => 
+    [email] => wood8122@yahoo.com
+    [phone] => 
+    [address] => P.O. Box 12763
+    [city] => El Cajon
+    [state] => California
+    [country] => US
+    [postcode] => 92022
+    [source] => magento_import
+    [issue_start] => 71
+    [issue_end] => 74
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2010-02-02 08:12:06
+    [modified] => 2010-02-18 19:11:04
+    [last_issue_date] => 1/15/2011
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-17 21:30:43
+Invoice Id: 100001536
+First Name: Simon
+Last Name: Savelyev
+Address:
+11944 Mayfield Ave. #103
+Los Angeles, California 90049
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-17: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-18 06:20:30
+Invoice Id: 100001537
+First Name: Shannon
+Last Name: Sproston
+Address:
+3212 11th Ave. Apt. 222
+Evans, Colorado 80620
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-18: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-18 19:27:05
+Invoice Id: 100001538
+First Name: Jeremy
+Last Name: Hurlburt
+Address:
+573 Auburn Avenue
+Apt. #2
+Buffalo, New York 14222
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-18: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-20 03:14:04
+Invoice Id: 100001539
+First Name: Daniel
+Last Name: Mejia
+Address:
+1707 S. Racine Ave. Apt. 2RS
+Chicago, Illinois 60608
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-20: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-21 00:02:43
+Invoice Id: 100001540
+First Name: Dan
+Last Name: Mills
+Address:
+657 Briarleigh Way
+Woodstock, Georgia 30189
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-21: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-21 00:36:18
+Invoice Id: 100001541
+First Name: Kasia 
+Last Name: Kruk
+Address:
+313 Jefferson Street Apt 2R
+Brooklyn, New York 11237
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-21: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-21 17:11:37
+Invoice Id: 100001542
+First Name: John
+Last Name: Vasey
+Address:
+1831 Prosser Avenue #306
+Los Angeles, California 90025
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-21: 78 - 85
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 17383
+    [firstname] => John
+    [lastname] => Vasey
+    [company] => Skyhill Productions
+    [email] => Jvasey@aol.com
+    [phone] => 310-474-8281
+    [address] => 1831 Prosser Avenue #306
+    [city] => Los Angeles
+    [state] => California
+    [country] => US
+    [postcode] => 90025
+    [source] => DIRECT SUBSCRIBER
+    [issue_start] => 67
+    [issue_end] => 74
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2009-12-18 19:30:25
+    [modified] => 2009-12-18 19:30:25
+    [last_issue_date] => 1/15/2011
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-21 17:30:44
+Invoice Id: 100001543
+First Name: Tamir
+Last Name: Sapir
+Address:
+119 W 92nd street
+apt 6
+New York, New York 10025
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-21: 78 - 81
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 19735
+    [firstname] => TAMIR
+    [lastname] => Sapir
+    [company] => 
+    [email] => tamir.sapir@gmail.om
+    [phone] => 
+    [address] => 119 W 92nd street
+Apt 6
+    [city] => New York
+    [state] => New York
+    [country] => US
+    [postcode] => 10025
+    [source] => magento_import
+    [issue_start] => 73
+    [issue_end] => 76
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2010-08-01 01:10:15
+    [modified] => 2010-08-01 01:10:15
+    [last_issue_date] => 7/15/2011
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-21 19:33:15
+Invoice Id: 100001544
+First Name: Holly
+Last Name: Craine
+Address:
+11 A Fountain Street East
+Guelph, Ontario N1H 3N5
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-21: 78 - 81
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 19396
+    [firstname] => Holly
+    [lastname] => Craine
+    [company] => Violet Biggs Prod.
+    [email] => nickcraine@gmail.com
+    [phone] => 
+    [address] => 11 A Fountain Street East
+    [city] => Guelph
+    [state] => Ontario
+    [country] => CA
+    [postcode] => N1H 3N5
+    [source] => magento_import
+    [issue_start] => 71
+    [issue_end] => 74
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2010-04-05 15:16:42
+    [modified] => 2010-04-05 15:16:42
+    [last_issue_date] => 1/15/2011
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-21 21:00:00
+Invoice Id: 100001545
+First Name: Allen
+Last Name: Farst
+Address:
+646 Legendary Drive
+Dayton, Ohio 45458
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-21: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-22 16:31:06
+Invoice Id: 100001546
+First Name: Emma
+Last Name: Breeze
+Address:
+2656 160th Street
+Vancouver, British Columbia V3S 0B7
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-22: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-22 18:41:00
+Invoice Id: 100001547
+First Name: Guillaume
+Last Name: Monette
+Address:
+4564, Chambord
+Montreal, Quebec H2J 3M7
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-22: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-22 19:25:09
+Invoice Id: 100001548
+First Name: Brittany
+Last Name: Alsot
+Address:
+3638 CARR PL N
+Seattle, Washington 98103-8123
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-22: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-22 20:32:17
+Invoice Id: 100001549
+First Name: Roland
+Last Name: Rojas
+Address:
+PO Box 237115
+New York, New York 10023
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-22: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-23 21:34:48
+Invoice Id: 100001550
+First Name: Drew 
+Last Name: Boyd
+Address:
+170 W. 23rd Street
+Apartment 2-L
+New York, New York 10011
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-23: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-24 19:54:29
+Invoice Id: 100001551
+First Name: Brandon
+Last Name: Willetts
+Address:
+#605-1521 George St
+White Rock, British Columbia V4B 4A4
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-24: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-24 21:04:12
+Invoice Id: 100001552
+First Name: Nelson
+Last Name: Kim
+Address:
+50 Bayard St., Apt. 4X
+New York, New York 10013
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-24: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-26 19:45:33
+Invoice Id: 100001553
+First Name: Chiao-ih
+Last Name: Hui
+Address:
+1104 East 200 South
+Salt Lake City, Utah 84102
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-26: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-27 14:44:42
+Invoice Id: 100001554
+First Name: Andy
+Last Name: Coon
+Address:
+409 South Lindell Road
+Greensboro, North Carolina 27403
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-27: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-27 19:21:55
+Invoice Id: 100001555
+First Name: alex
+Last Name: kane
+Address:
+4105 Victory Dr. APT# 2A301
+austin, Texas 78704
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-27: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-28 00:11:03
+Invoice Id: 100001556
+First Name: Juha
+Last Name: Tirkkonen
+Address:
+Minna Canthin katu 7 A 13
+Helsinki, Uusimaa 00250
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-28: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-28 08:15:54
+Invoice Id: 100001557
+First Name: Colby
+Last Name: Rhea
+Address:
+4911 24th ST
+Lubbock, Texas 79407
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-28: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-28 17:17:07
+Invoice Id: 100001558
+First Name: Sofia
+Last Name: Karatza
+Address:
+115 1/2 S. Dubuque St
+Apt 3
+Iowa City, Iowa 52240
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-28: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-28 18:09:22
+Invoice Id: 100001559
+First Name: Anthony
+Last Name: Slawson
+Address:
+2723 S. Union Avenue
+Chicago, Illinois 60616
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-28: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-23 18:37:49
+Invoice Id: 100001560
+First Name: Alex
+Last Name: Schaefer
+Address:
+636 Greenwich Street
+Room #402
+New York, New York 10014
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-29: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-30 20:08:11
+Invoice Id: 100001561
+First Name: John
+Last Name: Norris
+Address:
+303 W. 16th Ave.
+Anchorage, Alaska 99501
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-30: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-30 20:28:01
+Invoice Id: 100001562
+First Name: John 
+Last Name: Santora
+Address:
+2467 Route 10
+Building 29, Apt 4b
+Morris Plains, New Jersey 07950
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-30: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-30 22:33:46
+Invoice Id: 100001563
+First Name: Jasmine
+Last Name: Monton
+Address:
+32 Martha's Meadow Place NE
+Calgary, Alberta T3J 4H6
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-11-30: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-30 22:56:59
+Invoice Id: 100001564
+First Name: davin
+Last Name: bordbar
+Address:
+10401 madison dr
+atlanta, Georgia 30346
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-30: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-11-30 23:14:43
+Invoice Id: 100001565
+First Name: Leo
+Last Name: Jackson
+Address:
+11304 SE 10th St, Apt A5
+Vancouver, Washington 98664
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-11-30: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 01:46:27
+Invoice Id: 100001566
+First Name: Logan
+Last Name: Hess
+Address:
+11911 Greenville Ave.
+Apt 4206
+Dallas, Texas 75243
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 14:52:12
+Invoice Id: 100001567
+First Name: Sara Zia
+Last Name: Ebrahimi
+Address:
+409 E Pleasant Street
+Philadelphia, Pennsylvania 19119
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 14:55:07
+Invoice Id: 100001568
+First Name: Allison
+Last Name: Inman
+Address:
+3008 Dobbs Ave.
+Nashville, Tennessee 37211
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 15:04:14
+Invoice Id: 100001569
+First Name: Kathryn
+Last Name: Brandbo
+Address:
+555 flemming way #105
+Maitland, Florida 32751
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 15:05:27
+Invoice Id: 100001570
+First Name: brian
+Last Name: bashaw
+Address:
+49 college dr.
+csc box 636
+castleton, Vermont 05735
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 15:20:05
+Invoice Id: 100001571
+First Name: Maris
+Last Name: Curran
+Address:
+434 40th Street
+Oakland, California 94609
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 16:48:17
+Invoice Id: 100001572
+First Name: Matthew
+Last Name: Cheney
+Address:
+3259 Dick Brown Road
+Plymouth, New Hampshire 03264
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 16:55:21
+Invoice Id: 100001573
+First Name: Ryan
+Last Name: Lebar
+Address:
+2826 W Tamiami Circle
+Sarasota, Florida 34234
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 16:56:41
+Invoice Id: 100001574
+First Name: John
+Last Name: Fetzer
+Address:
+6619 Leland Way
+Apt. 309
+Hollywood, California 90028
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:00:23
+Invoice Id: 100001575
+First Name: Chase
+Last Name: Gardiner
+Address:
+11740 44 ave
+Edmonton, Alberta T6J 0Z8
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:03:25
+Invoice Id: 100001576
+First Name: Matthew
+Last Name: Salton
+Address:
+390 Myrtle Ave Apt. 4
+Brooklyn, New York 11205
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:07:16
+Invoice Id: 100001577
+First Name: Cory
+Last Name: Cothrum
+Address:
+335 Harrington ave.
+Warwick, Rhode Island 02888
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:09:09
+Invoice Id: 100001578
+First Name: Brian
+Last Name: Streem
+Address:
+405 Douglass St apt 2
+Brooklyn, New York 11217
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:09:56
+Invoice Id: 100001579
+First Name: John Mark
+Last Name: Palaganas
+Address:
+1-269 Notre-Dame-de-l'Ile
+Gatineau, Quebec J8X3T9
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:10:26
+Invoice Id: 100001580
+First Name: Tim
+Last Name: McMillan
+Address:
+2495-1 carlsen avenue
+Ottawa, Ontario K1V8G2
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:14:02
+Invoice Id: 100001581
+First Name: Justin
+Last Name: Staley
+Address:
+135-25 140th Street
+Jamaica, New York 11436
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:15:11
+Invoice Id: 100001582
+First Name: Joel
+Last Name: Rakowski
+Address:
+PO Box 7397
+Ann Arbor, Michigan 48107
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:16:42
+Invoice Id: 100001583
+First Name: Sean
+Last Name: Gillane
+Address:
+750 Guerrero St #5
+San Francisco, California 94110
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:19:24
+Invoice Id: 100001584
+First Name: Brian A. 
+Last Name: Keating
+Address:
+1299 California Street
+APT 19
+San Francisco, California 94109
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:29:04
+Invoice Id: 100001585
+First Name: Kyle
+Last Name: Doyle
+Address:
+100 Church St
+Kings Park, New York 11754
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:50:05
+Invoice Id: 100001586
+First Name: Jamie
+Last Name: LeJeune
+Address:
+103 Cortland Ave
+San Francisco, California 94110
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:55:56
+Invoice Id: 100001587
+First Name: DAN
+Last Name: SCHWERT
+Address:
+3008 NE 117TH ST
+SEATTLE, Washington 98125
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:59:50
+Invoice Id: 100001588
+First Name: Taylor
+Last Name: Chen
+Address:
+2113 Holly Drive
+Los Angeles, California 90068
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 17:59:48
+Invoice Id: 100001589
+First Name: Evelyn
+Last Name: Chan
+Address:
+1888 Upland Drive
+Vancouver, British Columbia V5P2C4
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 18:01:07
+Invoice Id: 100001590
+First Name: Tom
+Last Name: Fudala
+Address:
+15520 Maple CT
+Homer Glen, Illinois 60491
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 18:22:55
+Invoice Id: 100001591
+First Name: Daniel
+Last Name: Woods
+Address:
+75 Canton Rd
+Akron , Ohio 44312
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 20183
+    [firstname] => Daniel
+    [lastname] => Woods
+    [company] => 
+    [email] => Danielthomaswoods@gmail.com
+    [phone] => 
+    [address] => 75 Canton Rd
+    [city] => Akron
+    [state] => Ohio
+    [country] => US
+    [postcode] => 44312
+    [source] => magento_import
+    [issue_start] => 74
+    [issue_end] => 77
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2010-12-03 01:10:10
+    [modified] => 2010-12-03 01:10:10
+    [last_issue_date] => 10/15/2011
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 18:35:46
+Invoice Id: 100001592
+First Name: Tyler
+Last Name: Johnson
+Address:
+1224#B N. Lemon Ave
+Menlo Park, California 94025
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 18:36:09
+Invoice Id: 100001593
+First Name: Greg
+Last Name: Mezey
+Address:
+246 East State Street
+Athens, Ohio 45701
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 18:39:29
+Invoice Id: 100001594
+First Name: Mitchell
+Last Name: Wright
+Address:
+2355 Worden Street
+San Diego, California 92107
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 18:43:16
+Invoice Id: 100001595
+First Name: Robert
+Last Name: Clay
+Address:
+2301 First Avenue North
+APT 212
+Birmingham, Alabama 35223
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 18:45:04
+Invoice Id: 100001596
+First Name: Julio
+Last Name: Alvarez
+Address:
+10 SW South River Drive
+Apt 702
+Miami, Florida 33130
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 19:37:54
+Invoice Id: 100001597
+First Name: Danny
+Last Name: Dahlquist
+Address:
+401 N St. NE
+Auburn, Washington 98002
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 19:43:52
+Invoice Id: 100001598
+First Name: Sean
+Last Name: Frewer
+Address:
+100 Billings Ave
+Toronto, Ontario M4L 2S4
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 19:51:15
+Invoice Id: 100001599
+First Name: Rob
+Last Name: Stern
+Address:
+2330 University Court
+Naperville, Illinois 60565
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 10842
+    [firstname] => rob
+    [lastname] => stern
+    [company] => theetiquette.org
+    [email] => filmstreetharlot@gmail.com
+    [phone] => 16309469765
+    [address] => 2330 university court
+    [city] => naperville
+    [state] => Illinois
+    [country] => US
+    [postcode] => 60565
+    [source] => DIRECT SUBSCRIBER
+    [issue_start] => 67
+    [issue_end] => 70
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2009-12-18 18:05:12
+    [modified] => 2009-12-18 18:05:12
+    [last_issue_date] => 1/15/2010
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 19:59:16
+Invoice Id: 100001600
+First Name: Brendan
+Last Name: Leahy
+Address:
+635 N Dearborn St.
+Apt. 1505
+Chicago, Illinois 60654
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:07:51
+Invoice Id: 100001601
+First Name: Terrence
+Last Name: Elenteny
+Address:
+1013 Lincoln Place
+Brooklyn, New York 11213
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:09:17
+Invoice Id: 100001602
+First Name: Olaf
+Last Name: Steel
+Address:
+7301 4th Avenue
+Apt. D8
+Brooklyn, New York 11209
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:09:45
+Invoice Id: 100001603
+First Name: Ryan
+Last Name: Lynch
+Address:
+106 Parnassus #3
+San Francisco, California 94117
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:08:28
+Invoice Id: 100001604
+First Name: Dmitry
+Last Name: Kitsov
+Address:
+332 Kinross Dr
+Walnut Creek, California 94598-2108
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:12:21
+Invoice Id: 100001605
+First Name: David
+Last Name: MacBride
+Address:
+1115 Laurel Rd
+Coatesville, Pennsylvania 19320
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:13:41
+Invoice Id: 100001606
+First Name: Jared
+Last Name: Kudabeck
+Address:
+1003 Missouri Street #2
+Houston, Texas 77006
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:16:27
+Invoice Id: 100001607
+First Name: douglas
+Last Name: cracraft
+Address:
+po box 342
+grass valley, California 95945
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:17:19
+Invoice Id: 100001608
+First Name: Andrew
+Last Name: Crespo
+Address:
+42 Crestmont Ave
+42 Crestmont Ave
+Asheville, North Carolina 28806
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:16:17
+Invoice Id: 100001609
+First Name: Stephen
+Last Name: Smith
+Address:
+5910 Leavenworth Street
+Omaha, Nebraska 68106
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:20:48
+Invoice Id: 100001610
+First Name: Jeff
+Last Name: Norton
+Address:
+5009 SW 329th Way
+Federal Way, Washington 98023
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:18:59
+Invoice Id: 100001611
+First Name: Brian
+Last Name: Lyons
+Address:
+4324 Scott st.
+Oak Forest, Illinois 60452
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 18836
+    [firstname] => Brian
+    [lastname] => Lyons
+    [company] => 
+    [email] => theuncannyhavok@yahoo.com
+    [phone] => 
+    [address] => 4324 Scott st.
+    [city] => Oak Forest
+    [state] => Illinois
+    [country] => US
+    [postcode] => 60452
+    [source] => magento_import
+    [issue_start] => 73
+    [issue_end] => 75
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2009-12-18 19:33:42
+    [modified] => 2010-09-10 01:10:06
+    [last_issue_date] => 4/15/2011
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:28:30
+Invoice Id: 100001612
+First Name: Patrick
+Last Name: Quinn
+Address:
+145 Allen Avenue
+Glendale, California 91201
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:30:03
+Invoice Id: 100001613
+First Name: Michael
+Last Name: Gyori
+Address:
+1025 Odlum Drive
+Vancouver, British Columbia V5L3L5
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:30:43
+Invoice Id: 100001614
+First Name: Steven
+Last Name: Bailey
+Address:
+1048 Darms Lane
+Napa, California 94558
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:28:31
+Invoice Id: 100001615
+First Name: John
+Last Name: Como
+Address:
+146 Sussex St Apt 1
+Jersey City, New Jersey 07302
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:36:44
+Invoice Id: 100001616
+First Name: Betsy
+Last Name: Peterson
+Address:
+PO Box 21
+Hope, New Jersey 07844
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:43:11
+Invoice Id: 100001617
+First Name: Brian
+Last Name: Wilson
+Address:
+4621 Brook Meadow Ln
+Plano, Texas 75093
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:41:20
+Invoice Id: 100001618
+First Name: Javed
+Last Name: Haque
+Address:
+438 East 10th Avenue
+Vancouver, British Columbia V5T2A1
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:44:26
+Invoice Id: 100001619
+First Name: Jascha
+Last Name: Neutelings
+Address:
+Bronweg 7
+Maastricht, Limburg 6227SH
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:44:47
+Invoice Id: 100001620
+First Name: Joseph
+Last Name: Crump
+Address:
+11825 Sand Dollar Ct.
+Indianapolis, Indiana 46256
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:45:57
+Invoice Id: 100001621
+First Name: Adiseshan
+Last Name: Shankar
+Address:
+39 - 3345 Silverado Dr
+Mississauga, Ontario L5A 3Y8
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 20247
+    [firstname] => Adiseshan
+    [lastname] => Shankar
+    [company] => 
+    [email] => photography@a-shankar.com
+    [phone] => 
+    [address] => 39 - 3345 Silverado Dr
+    [city] => Mississauga
+    [state] => Ontario
+    [country] => CA
+    [postcode] => L5A 3Y8
+    [source] => magento_import
+    [issue_start] => 74
+    [issue_end] => 77
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2010-12-04 01:10:09
+    [modified] => 2010-12-04 01:10:09
+    [last_issue_date] => 10/15/2011
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:48:02
+Invoice Id: 100001622
+First Name: Erik 
+Last Name: Naso
+Address:
+5356 Camino Playa Malaga
+San Diego, California 62124
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:52:13
+Invoice Id: 100001623
+First Name: chris
+Last Name: hurd
+Address:
+4911 colchester ct.
+dublin, California 94568
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:53:00
+Invoice Id: 100001624
+First Name: Martin
+Last Name: Horak
+Address:
+1271 N. Major Dr.
+Beaumont, Texas 77706
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:55:39
+Invoice Id: 100001625
+First Name: Chris
+Last Name: Duncan
+Address:
+6421 Aden Lane
+Austin, Texas 78739
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:56:04
+Invoice Id: 100001626
+First Name: Edry 
+Last Name: Hilario
+Address:
+20 Sassafras rd
+North Kingstown , Rhode Island 02852
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 20:56:16
+Invoice Id: 100001627
+First Name: Joseph
+Last Name: Christensen
+Address:
+8401 Mt Shasta Cove
+Round Rock, Texas 78681
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 21:00:15
+Invoice Id: 100001628
+First Name: Roel
+Last Name: Bus
+Address:
+1968 Kathleen Ave
+Box 667
+Bright's Grove, Ontario N0N 1C0
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 21:03:42
+Invoice Id: 100001629
+First Name: lobsang
+Last Name: thinley
+Address:
+262 vernon st, apt 202
+oakland, California 94610
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 21:11:10
+Invoice Id: 100001630
+First Name: Stephen
+Last Name: Kastner
+Address:
+3395 Shady Lane
+Fish Creeek, Wisconsin 54212
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 21:11:54
+Invoice Id: 100001631
+First Name: Trevor
+Last Name: Algatt
+Address:
+11712 Darlington Ave
+#5
+Los Angeles, California 90049
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 21:22:42
+Invoice Id: 100001632
+First Name: Dave
+Last Name: Owen
+Address:
+New House.  Llanfallteg. 
+Whitland
+Carmarthen, Carmarthenshire SA340UW
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 21:34:08
+Invoice Id: 100001633
+First Name: Mark
+Last Name: Ahrens
+Address:
+17885 Pollard Lane.
+Huntington Beach, California 92647
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 21:41:08
+Invoice Id: 100001634
+First Name: Jacob
+Last Name: Messina
+Address:
+1000 Misty Mountain Rd
+APT 104
+Lynchburg, Virginia 24502
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 21:53:20
+Invoice Id: 100001635
+First Name: David
+Last Name: Nolan
+Address:
+31230 Retama Ridge
+Bulverde, Texas 78163
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 21:55:46
+Invoice Id: 100001636
+First Name: Jeremy
+Last Name: Taylor
+Address:
+8825 N Burrage Ave
+Portland, Oregon 97217
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 22:10:00
+Invoice Id: 100001637
+First Name: Isabel
+Last Name: Gomez-Moriana
+Address:
+183 Dovercourt Road
+Suite 507
+Toronto, Ontario M6J 3C1
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 22:14:57
+Invoice Id: 100001638
+First Name: Jelli
+Last Name: Salako
+Address:
+3901 Rayton Rd
+Randallstown, Maryland 21133
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 22:19:30
+Invoice Id: 100001639
+First Name: David
+Last Name: McFarland
+Address:
+5235 NE Alameda St.
+Portland, Oregon 97213
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 22:17:12
+Invoice Id: 100001640
+First Name: Carl
+Last Name: Pinder
+Address:
+3666 Beethoven St
+Los Angeles , California 90066
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 22:28:18
+Invoice Id: 100001641
+First Name: Benjamin
+Last Name: Brandt
+Address:
+861 Glencliff St
+Apt 29
+La Habra, California 90631
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 22:35:31
+Invoice Id: 100001642
+First Name: Christopher
+Last Name: Evans
+Address:
+1101 Homeview Court
+London, Ontario N6C 6C2
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 20240
+    [firstname] => Christopher
+    [lastname] => Evans
+    [company] => 
+    [email] => chriz_evans@hotmail.com
+    [phone] => 
+    [address] => 1101 Homeview Court
+    [city] => London
+    [state] => Ontario
+    [country] => CA
+    [postcode] => N6C 6C2
+    [source] => magento_import
+    [issue_start] => 74
+    [issue_end] => 77
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2010-12-03 01:10:29
+    [modified] => 2010-12-04 01:10:07
+    [last_issue_date] => 10/15/2011
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 22:37:15
+Invoice Id: 100001643
+First Name: Vanessa
+Last Name: Lin
+Address:
+3925 Big Oak Dr.
+Apt. 5
+Studio City, California 91604
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 23:18:25
+Invoice Id: 100001644
+First Name: Matt
+Last Name: Weeks
+Address:
+313 Camelback Dr.
+Bossier City, Louisiana 71111
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 23:29:11
+Invoice Id: 100001645
+First Name: Morgan
+Last Name: Sun
+Address:
+7 Ironwood Dr.
+Morris Plains, New Jersey 07950
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 23:39:39
+Invoice Id: 100001646
+First Name: Alexis
+Last Name: Ferris
+Address:
+214 Summit Ave E
+#404
+Seattle, Washington 98102
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 20216
+    [firstname] => Alexis
+    [lastname] => Ferris
+    [company] => Particular Productions, LLC
+    [email] => alexis@particularproductions.com
+    [phone] => 
+    [address] => 214 Summit Ave E
+#404
+    [city] => Seattle
+    [state] => Washington
+    [country] => US
+    [postcode] => 98102
+    [source] => magento_import
+    [issue_start] => 74
+    [issue_end] => 77
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2010-12-03 01:10:21
+    [modified] => 2010-12-03 01:10:21
+    [last_issue_date] => 10/15/2011
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 23:46:04
+Invoice Id: 100001647
+First Name: William
+Last Name: Hatch
+Address:
+311 Fauquier St.
+Fredericksburg, Virginia 22401
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-01: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-01 23:45:40
+Invoice Id: 100001648
+First Name: Jonathan
+Last Name: Sautter
+Address:
+12372 Carmel Country Road #206
+San DIego, California 92130
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-01: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 00:36:27
+Invoice Id: 100001649
+First Name: Milena
+Last Name: Grozeva
+Address:
+915 Shorepoint Ct, Apt E326
+Alameda, California 94501
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 01:06:16
+Invoice Id: 100001650
+First Name: Allan and Hope
+Last Name: Shadoan
+Address:
+745 North Brighton
+Burbank, California 91505
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 01:14:53
+Invoice Id: 100001651
+First Name: Film 
+Last Name: Maker
+Address:
+PO Box 25243
+Durham, North Carolina 27702
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 01:34:06
+Invoice Id: 100001652
+First Name: Matt
+Last Name: Fisher
+Address:
+107 Ridge Rd
+Lyman, South Carolina 29365
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 01:58:15
+Invoice Id: 100001653
+First Name: Richard
+Last Name: Duque-Henao
+Address:
+411 S. 1st Street
+Lindenhurst, New York 11757
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 01:58:51
+Invoice Id: 100001654
+First Name: Robert 
+Last Name: Hardy
+Address:
+6021 Castlegate Dr W E25
+Castle Rock, Colorado 80108
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 02:27:54
+Invoice Id: 100001655
+First Name: Michael J
+Last Name: Toffan
+Address:
+5718 Homecrest Lane
+Mason, Ohio 45040
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 02:41:07
+Invoice Id: 100001656
+First Name: RIBBEL
+Last Name: DHASON
+Address:
+14416 Ansted RD
+silver spring, Maryland 20905
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 02:51:52
+Invoice Id: 100001657
+First Name: Glen
+Last Name: Wise
+Address:
+1643 E. Warren Ave.
+Ozark, Missouri 65721
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 02:59:49
+Invoice Id: 100001658
+First Name: Mark
+Last Name: Archuleta
+Address:
+3615 Big Cottonwood DR SW
+Albuquerque, New Mexico 87105
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 03:13:16
+Invoice Id: 100001659
+First Name: David
+Last Name: Malone
+Address:
+7738 Claridge
+San Antonio, Texas 78250
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 03:17:05
+Invoice Id: 100001660
+First Name: Kaz
+Last Name: Ceh
+Address:
+622 Warrigal Road
+Malvern East, Victoria 3145
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 03:17:25
+Invoice Id: 100001661
+First Name: Cameron
+Last Name: Pace
+Address:
+5771 S. Parkhill Ave.
+Springfield, Missouri 65810
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 04:07:58
+Invoice Id: 100001662
+First Name: Emilie
+Last Name: McDonald
+Address:
+45-44 42nd St. #1A
+Sunnyside, New York 11104
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 21104
+    [firstname] => Emilie
+    [lastname] => McDonald
+    [company] => 
+    [email] => blythe17@gmail.com
+    [phone] => 
+    [address] => 45-44 42nd St. #1A
+    [city] => Sunnyside
+    [state] => New York
+    [country] => US
+    [postcode] => 11104
+    [source] => magento_import
+    [issue_start] => 76
+    [issue_end] => 79
+    [quantity] => 1
+    [invoice_ids] => 100001197
+    [created] => 2011-04-12 01:10:08
+    [modified] => 2011-04-12 01:10:08
+    [last_issue_date] => 4/15/2012
+)
+
+Extending subscription.
+Problem saving.
+-------------------------------------------
+Updated at: 2011-12-02 04:24:06
+Invoice Id: 100001663
+First Name: Alvaro
+Last Name: Aro
+Address:
+1124 Welsh Drive
+Lake Saint Louis, Missouri 63367
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 04:29:40
+Invoice Id: 100001664
+First Name: Corie 
+Last Name: Levitt
+Address:
+3 Yonge Street
+St.Catharines, Ontario L2M1N1
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 04:47:47
+Invoice Id: 100001665
+First Name: martin
+Last Name: carrieres
+Address:
+113 rue du mont castel
+st-colomban, Quebec j5k 1l7
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 04:52:27
+Invoice Id: 100001666
+First Name: Byron
+Last Name: Yeager
+Address:
+Po Box 657
+Kaaawa, Hawaii 96730
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 05:10:08
+Invoice Id: 100001667
+First Name: Johnathan
+Last Name: Nguyen
+Address:
+9450 Gilman Drive #10109
+La Jolla, California 92092
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 05:57:59
+Invoice Id: 100001668
+First Name: Steven
+Last Name: Borzachillo
+Address:
+1711 Serrano
+Los Angeles, California 90027
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 07:01:21
+Invoice Id: 100001669
+First Name: Joe
+Last Name: Dietl
+Address:
+3124 1/2 Silverado Drive
+Los Angeles, California 90039
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 09:16:23
+Invoice Id: 100001670
+First Name: Eric
+Last Name: Shukovsky
+Address:
+42c Main St
+Rockport, Massachusetts 01966
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 12:21:27
+Invoice Id: 100001671
+First Name: Kevin
+Last Name: Clark
+Address:
+27236 Delemos
+Mission Vieho, California 92692
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 13:28:26
+Invoice Id: 100001672
+First Name: Samuel
+Last Name: Nosek
+Address:
+21481 Lynn Drive
+Lexington Park, Maryland 20653
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 14:01:23
+Invoice Id: 100001673
+First Name: Jason
+Last Name: Harper
+Address:
+387 S 4th St Apt 4
+Brooklyn, New York 11211
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 14:38:29
+Invoice Id: 100001674
+First Name: Brian
+Last Name: Smith
+Address:
+52 Greendale ave
+Needham, Massachusetts 02494
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 15:15:58
+Invoice Id: 100001675
+First Name: Ben
+Last Name: Pien
+Address:
+4827 madison st ne
+Columbia Heights, Minnesota 55421
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 16:01:50
+Invoice Id: 100001676
+First Name: Evan
+Last Name: Leong
+Address:
+264 East Broadway C1707
+New York , New York 10002
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 16:08:34
+Invoice Id: 100001677
+First Name: Gina
+Last Name: Brinker
+Address:
+11000 Pleasant Valley Road
+WSS G202
+Parma, Ohio 44130
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 17:07:51
+Invoice Id: 100001678
+First Name: Alexandra
+Last Name: MacArthur
+Address:
+183 Norman Avenue
+Apt. 2
+Brooklyn, New York 11222
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 17:14:02
+Invoice Id: 100001679
+First Name: Weston
+Last Name: Heflin
+Address:
+1705 Holly St
+B
+Nashville, Tennessee 37206
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 17:41:18
+Invoice Id: 100001680
+First Name: Corey
+Last Name: Stewart
+Address:
+303 Quail Forest Blvd #125
+Naples, Florida 34105
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 17:41:41
+Invoice Id: 100001681
+First Name: Ariel
+Last Name: Gilboa
+Address:
+Shlomo Ha'melech 34/5
+Tel-Aviv, NA 64378
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 17:45:23
+Invoice Id: 100001682
+First Name: Dana
+Last Name: Kinlaw
+Address:
+890 De Mott Ave
+Baldwin, New York 11510
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 17:46:35
+Invoice Id: 100001683
+First Name: Troy
+Last Name: Lemberg
+Address:
+3401 Shelbourne St
+Victoria, British Columbia V8P4G1
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 18:00:32
+Invoice Id: 100001684
+First Name: Joseph 
+Last Name: Owens
+Address:
+99 Belleau Wood Dr.
+Newnan, Georgia 30263
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 18:06:07
+Invoice Id: 100001685
+First Name: Sean
+Last Name: Covel
+Address:
+647 S. Detroit
+Los Angeles, California 90036
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 18:39:41
+Invoice Id: 100001686
+First Name: Damian
+Last Name: Voerg
+Address:
+39 Greene Street Apt 202
+Jersey City, New Jersey 07302
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 18:50:50
+Invoice Id: 100001687
+First Name: RENN
+Last Name: CHEADLE
+Address:
+322 E 11TH ST
+APT 16
+NEW YORK, New York 10003
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 19:06:46
+Invoice Id: 100001688
+First Name: Zeek 
+Last Name: Earl
+Address:
+6704 Dayton Ave N
+Seattle, Washington 98103
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 19:19:21
+Invoice Id: 100001689
+First Name: Benjamin 
+Last Name: Perez
+Address:
+6707 Grassland Ave
+West Bloomfield, Michigan 48324
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 19:38:00
+Invoice Id: 100001690
+First Name: Jordan
+Last Name: Benson
+Address:
+202-1348 Barclay Street
+Vancouver, British Columbia V6E 1H7
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 19:43:00
+Invoice Id: 100001691
+First Name: Robert 
+Last Name: Jordan III
+Address:
+111 Clear Creek st
+Hempstead, Texas 77446
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 20:00:38
+Invoice Id: 100001692
+First Name: JESSA
+Last Name: FRENCH
+Address:
+826 N. La Jolla Ave.
+Los Angeles, California 90046
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 20:26:46
+Invoice Id: 100001693
+First Name: Rachael
+Last Name: Cunningham
+Address:
+4315 Grandville Blvd
+Nashville, Tennessee 37207
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 20:42:23
+Invoice Id: 100001694
+First Name: Son
+Last Name: Nguyen
+Address:
+460 Bussel Crescent
+Milton, Ontario L9T 0W8
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 21:10:27
+Invoice Id: 100001695
+First Name: Jerome
+Last Name: Poynton
+Address:
+136 15th Street
+Wheeling, West Virginia 26003
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 21:10:53
+Invoice Id: 100001696
+First Name: Bob
+Last Name: Gottfried
+Address:
+148 Finch Ave West
+Toronto, Ontario M2N 2J2
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 22:19:20
+Invoice Id: 100001697
+First Name: Benjamin
+Last Name: Rogerson
+Address:
+1349 W Thorndale Ave.
+Apt 2
+Chicago , Illinois 60660
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 22:48:57
+Invoice Id: 100001698
+First Name: Vicente
+Last Name: Cruz
+Address:
+2207 S El Camino Real
+San Mateo, California 94403
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-02: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-02 22:51:07
+Invoice Id: 100001699
+First Name: Mike
+Last Name: Remshaw
+Address:
+14227 magnolia blvd #H314
+Sherman Oaks, California 91423
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-02: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 00:55:58
+Invoice Id: 100001700
+First Name: Rod
+Last Name: Cole
+Address:
+1131 Stone Forest
+Round Rock, Texas 78681
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-03: 78 - 85
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 17287
+    [firstname] => Rod
+    [lastname] => Cole
+    [company] => 
+    [email] => rcole256@gmail.com
+    [phone] => 512-524-6730
+    [address] => 1131 Stone Forest
+    [city] => Round Rock
+    [state] => Texas
+    [country] => US
+    [postcode] => 78681
+    [source] => DIRECT SUBSCRIBER
+    [issue_start] => 66
+    [issue_end] => 73
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2009-12-18 19:30:18
+    [modified] => 2009-12-18 19:30:18
+    [last_issue_date] => 10/15/2010
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 01:34:49
+Invoice Id: 100001701
+First Name: Rene
+Last Name: Pedrosa
+Address:
+Calle Alhambra 10-30
+Urb. Torrimar
+Guaynabo, PR 00966
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-03: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 01:37:11
+Invoice Id: 100001702
+First Name: Adam
+Last Name: jacobs
+Address:
+9101 Nantwick Ridge
+Brooklyn Park, Minnesota 55443
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-03: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 02:31:33
+Invoice Id: 100001703
+First Name: Greg
+Last Name: Lowe
+Address:
+417 Gravilla St.
+La Jolla, California 92037
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-03: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 02:36:35
+Invoice Id: 100001704
+First Name: Kevin
+Last Name: Konicek
+Address:
+537 B Street
+Santa Rosa, California 95401
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-03: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 03:37:24
+Invoice Id: 100001705
+First Name: Lance
+Last Name: Forrest
+Address:
+7 Belle Ln
+Poquoson, Virginia 23662
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-03: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 09:03:46
+Invoice Id: 100001706
+First Name: Steve
+Last Name: Simonsen
+Address:
+PO Box 980
+St. John,  00831
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-03: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 14:41:18
+Invoice Id: 100001707
+First Name: Dirk
+Last Name: Naves
+Address:
+1651 Bradford St NE
+Grand Rapids, Michigan 49503
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-03: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 16:07:39
+Invoice Id: 100001708
+First Name: Josh
+Last Name: Norman
+Address:
+315 Commerce Ave S.W. Apt 313
+Grand Rapids, Michigan 49503
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-03: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 16:26:00
+Invoice Id: 100001709
+First Name: Edward
+Last Name: Robles
+Address:
+2316 ave H, apt. 1610
+Grand Prairie, Texas 75050
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-03: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 16:31:02
+Invoice Id: 100001710
+First Name: Robert
+Last Name: Greene
+Address:
+140 Julie Drive
+Pittsburgh, Pennsylvania 15227
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-03: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 16:47:05
+Invoice Id: 100001711
+First Name: Ryan
+Last Name: Johnston
+Address:
+1724 N Kellogg Dr
+Apt E
+Anaheim, California 92807
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-03: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 18:18:25
+Invoice Id: 100001712
+First Name: Denisse
+Last Name: Sada
+Address:
+1017 S. Peking
+McAllen, Texas 78501
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-03: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 19:39:03
+Invoice Id: 100001713
+First Name: Alex
+Last Name: Belfoy
+Address:
+906 Dexter Ave N Apt. L109
+Seattle, Washington 98109
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-03: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 22:05:30
+Invoice Id: 100001714
+First Name: Dillon
+Last Name: Moore
+Address:
+One University Drive
+#9074
+Orange, California 92866
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-03: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 23:35:49
+Invoice Id: 100001715
+First Name: Kristin
+Last Name: Rodin
+Address:
+5050 E. Weldon Ave.
+Pheonix, Arizona 85018
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-03: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-03 23:41:43
+Invoice Id: 100001716
+First Name: Cristian
+Last Name: Detken
+Address:
+19500 Pruneridge Ave Apt 4301
+Cupertino, California 95014
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-03: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 00:20:49
+Invoice Id: 100001717
+First Name: BARRY
+Last Name: LENSMAN
+Address:
+61A  EDGEWOOD ROAD
+PORT WASHINGTON, New York 11050
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-04: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 00:34:58
+Invoice Id: 100001718
+First Name: william
+Last Name: wise
+Address:
+173 holly harbor ln.
+sparta, Georgia 31087
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-04: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 01:30:36
+Invoice Id: 100001719
+First Name: Bruce
+Last Name: Nelson
+Address:
+1400 Zillock Rd. # HB221
+San Benito, Texas 78586
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-04: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 02:48:48
+Invoice Id: 100001720
+First Name: Christopher
+Last Name: Trice
+Address:
+655 6th Ave #515
+San Diego, California 92101
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-04: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 03:17:56
+Invoice Id: 100001721
+First Name: Mark
+Last Name: Johnson
+Address:
+300 N. State St. #3703
+Chicago, Illinois 60654
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-04: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 03:45:28
+Invoice Id: 100001722
+First Name: James
+Last Name: Willems
+Address:
+552 E. Palm Ave
+Apt. D
+Burbank, California 91501
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-04: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 08:55:08
+Invoice Id: 100001723
+First Name: Jeff
+Last Name: Unay
+Address:
+11618 SE 61st Pl
+Bellevue, Washington 98006
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-04: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 09:20:28
+Invoice Id: 100001724
+First Name: Hilroy
+Last Name: Distin
+Address:
+3315 E Presidio Rd
+Unit 1
+Tucson, Arizona 85716
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-04: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 10:30:55
+Invoice Id: 100001725
+First Name: Doug
+Last Name: Frerichs
+Address:
+1941 W La Veta Ave
+Apt 228
+Orange, California 92868
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-04: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 13:23:46
+Invoice Id: 100001726
+First Name: Karen 
+Last Name: Reeder
+Address:
+3600 38th Avenue North
+St. Petersburg, Florida 33713
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-04: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 15:22:13
+Invoice Id: 100001727
+First Name: William
+Last Name: Roadhouse
+Address:
+5130 S Fort Apache Rd
+Ste 215-203
+Las Vegas, Nevada 89148
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-04: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 15:32:18
+Invoice Id: 100001728
+First Name: Jeff
+Last Name: Mcluckie
+Address:
+27 U Street
+Lake Lotawana, Missouri 64086
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-04: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 15:50:08
+Invoice Id: 100001729
+First Name: Kevin
+Last Name: Kunze
+Address:
+494 27th Ave
+Unit 24
+San Francisco, California 94121
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-04: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 16:34:54
+Invoice Id: 100001730
+First Name: Patrick 
+Last Name: Kalyn
+Address:
+#902 - 1155 Homer St.
+Vancouver, British Columbia V6B5T5
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-04: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 17:39:23
+Invoice Id: 100001731
+First Name: Joseph
+Last Name: Mountz
+Address:
+2263 Reading Blvd.
+West Lawn, Pennsylvania 19609-2212
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-04: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 17:39:10
+Invoice Id: 100001732
+First Name: Grace
+Last Name: Koch
+Address:
+118a Earlswood Road
+Belfast,  BT4 3EA
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-04: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 18:11:22
+Invoice Id: 100001733
+First Name: Eric
+Last Name: Schleicher
+Address:
+2617 Colfax Ave S
+Minneapolis, Minnesota 55408
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-04: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 18:33:34
+Invoice Id: 100001734
+First Name: Guillermo
+Last Name: Roman
+Address:
+2909 N Ashland St., Unit 1
+Chicago, Illinois 60657
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-04: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 18:54:15
+Invoice Id: 100001735
+First Name: Ryan
+Last Name: Manalastas
+Address:
+145 Munson Avenue
+West Hempstead, New York 11552
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-04: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 23:14:39
+Invoice Id: 100001736
+First Name: James
+Last Name: Sorrels
+Address:
+83 Halsey St.
+Apt. 4
+Brooklyn, New York 11216
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-04: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 23:38:10
+Invoice Id: 100001737
+First Name: T
+Last Name: FILMS
+Address:
+2057 BAYLIS AVENUE
+ELMONT, New York 11003
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-04: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-04 23:40:40
+Invoice Id: 100001738
+First Name: Carla
+Last Name: Zamudio
+Address:
+15815 S. Lakewood Pkwy. W., Apt. 2011
+Phoenix, Arizona 85048
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-04: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 01:32:31
+Invoice Id: 100001739
+First Name: Anessa
+Last Name: Barbosa
+Address:
+3701 Quick Hill Rd
+Apt 11206
+Austin, Texas 78728
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-05: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 02:04:04
+Invoice Id: 100001740
+First Name: tory
+Last Name: martin
+Address:
+108 rosewood way
+greenville, South Carolina 29609
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-05: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 03:16:03
+Invoice Id: 100001741
+First Name: Natalie
+Last Name: Masino
+Address:
+PO BOX 701531
+San Antonio, Texas 78270
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-05: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 03:51:28
+Invoice Id: 100001742
+First Name: Fergus 
+Last Name: Lowrey
+Address:
+220 Old Field Dr
+Kitchener, Ontario n2a 3t7
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-05: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 04:08:25
+Invoice Id: 100001743
+First Name: Travis
+Last Name: Watkins
+Address:
+4056 N. Michigan Ave.
+Portland, Oregon 97227
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-05: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 04:51:18
+Invoice Id: 100001744
+First Name: Larry
+Last Name: Lee
+Address:
+203 Berry St
+Nashville, Tennessee 37207
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-05: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 06:01:30
+Invoice Id: 100001745
+First Name: Jeff
+Last Name: Calbom
+Address:
+10844 N. 38th Street
+Phoenix, Arizona 85028
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-05: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 07:25:15
+Invoice Id: 100001746
+First Name: Cesar 
+Last Name: Rodriguez
+Address:
+5105 Big Creek Ct Apt 2313
+Ft Worth , Texas 76132
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-05: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 08:29:30
+Invoice Id: 100001747
+First Name: Aksel
+Last Name: Fauzi
+Address:
+8 East Pearson St, Apt 3D
+Chicago, Illinois 60611
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-05: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 08:57:48
+Invoice Id: 100001748
+First Name: Jadan
+Last Name: Duffin
+Address:
+1844 Butler Ave #10
+Los Angeles, California 90025
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-05: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 17:52:02
+Invoice Id: 100001749
+First Name: Rosa
+Last Name: White
+Address:
+460 Nostrand Ave 3a
+Brooklyn, New York 11216
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-05: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 17:52:54
+Invoice Id: 100001750
+First Name: Ishai
+Last Name: Setton
+Address:
+1815 N. Edgemont Street
+Los Angeles, California 90027
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-05: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 18:02:01
+Invoice Id: 100001751
+First Name: Paul
+Last Name: Nicknig
+Address:
+3921 Nicklaus Place
+Carmichael, California 95608
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-05: 78 - 85
+----Subscriber exists in Subscribers Database...
+Array
+(
+    [id] => 20068
+    [firstname] => Paul
+    [lastname] => Nicknig
+    [company] => 
+    [email] => Paulnicknig@yahoo.com
+    [phone] => 
+    [address] => 3921 Nicklaus Place
+    [city] => Carmichael
+    [state] => California
+    [country] => US
+    [postcode] => 95608
+    [source] => magento_import
+    [issue_start] => 74
+    [issue_end] => 77
+    [quantity] => 1
+    [invoice_ids] => 
+    [created] => 2010-11-17 01:10:05
+    [modified] => 2010-11-17 01:10:05
+    [last_issue_date] => 10/15/2011
+)
+
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 19:23:04
+Invoice Id: 100001752
+First Name: Amy
+Last Name: Reese
+Address:
+1504 South Beulah St
+Philadelphia, Pennsylvania 19147
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-05: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 19:39:52
+Invoice Id: 100001753
+First Name: mary
+Last Name: salquist
+Address:
+18804 NW Covent Garden Pl
+beaverton, Oregon 97006
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-05: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 20:07:15
+Invoice Id: 100001754
+First Name: Anthony
+Last Name: Fisher
+Address:
+3540 30th St. Apt. 5H
+Astoria, New York 11106
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-05: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 21:04:21
+Invoice Id: 100001755
+First Name: Peter
+Last Name: Petra Von Lowenstein Barlow
+Address:
+31606 Haldane
+Livonia, Michigan 48152
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-05: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 22:34:49
+Invoice Id: 100001756
+First Name: Christian 
+Last Name: Rousseau
+Address:
+3462 Willowrun Unit A
+Austin, Texas 78704
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-05: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-05 23:29:03
+Invoice Id: 100001757
+First Name: Bernard
+Last Name: Cohen
+Address:
+103 Gedney Street
+Apt. 2M
+Nyack, New York 10960
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-05: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-06 00:30:01
+Invoice Id: 100001758
+First Name: Mel 
+Last Name: Eslyn
+Address:
+1532 15th Ave E
+Seattle, Washington 98112
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-06: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-06 01:48:18
+Invoice Id: 100001759
+First Name: Makena
+Last Name: Buchanan
+Address:
+17815 West Copper Lakes Drive
+Houston, Texas 77095
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-06: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-06 01:53:23
+Invoice Id: 100001760
+First Name: Bryce
+Last Name: Seifert
+Address:
+136 Mountain Laurel Way
+Austin, Texas 78737
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-06: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-06 02:00:54
+Invoice Id: 100001761
+First Name: Amber
+Last Name: Rose
+Address:
+7376 West Lake Sammamish Parkway NE
+Redmond, Washington 98052
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-06: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-06 02:08:56
+Invoice Id: 100001762
+First Name: James
+Last Name: Peterson
+Address:
+7232 Steinmeier Dr.
+Indianapolis, Indiana 46250
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-06: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-06 02:14:34
+Invoice Id: 100001763
+First Name: Usvaldo 
+Last Name: de Leon, Jr
+Address:
+14837 Kingston Dr.
+Horizon City, Texas 79928
+
+Looping through invoice items...
+Found a subscription item (8 issues)
+Updated: 2011-12-06: 78 - 85
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-06 03:35:17
+Invoice Id: 100001764
+First Name: Wilson
+Last Name: Pineros
+Address:
+5773 Miami Lakes Dr
+Miami Lakes, Florida 33014
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-06: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Updated at: 2011-12-06 05:08:21
+Invoice Id: 100001765
+First Name: Sam
+Last Name: Boger
+Address:
+404 Forrest Avenue
+Cleburne, Texas 76033
+
+Looping through invoice items...
+Found a subscription item (4 issues)
+Updated: 2011-12-06: 78 - 81
+Creating new subscriber...
+Order saved.
+-------------------------------------------
+Wrote to outfile: 2011-12-6 0:8:31

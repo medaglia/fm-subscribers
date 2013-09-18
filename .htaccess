@@ -1,0 +1,11 @@
+AuthName "FM Subscribers"
+AuthUserFile "/home/filmmake/.htpasswds/public_html/cake/passwd"
+AuthType Basic
+require valid-user
+ErrorDocument 401 "Authorisation Required"
+
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+   RewriteRule    ^$ app/webroot/    [L]
+   RewriteRule    (.*) app/webroot/$1 [L]
+</IfModule>

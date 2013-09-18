@@ -1,0 +1,3 @@
+[06-Dec-2009 17:11:01] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 104
+[06-Dec-2009 17:11:16] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 111
+[06-Dec-2009 17:11:50] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/filmmake/public_html/cake/vendors/shells/mimport.php on line 111
